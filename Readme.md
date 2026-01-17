@@ -1,0 +1,1 @@
+This "Pattern Menu" project teach me how nested loops work and How you can control flow of design of patterns. This "Pattern menu" has patterns like Square, Right half Pyramid, Left Half pyramid, Rhombus pattern and K pattern and this also teaches me how to make menu.
